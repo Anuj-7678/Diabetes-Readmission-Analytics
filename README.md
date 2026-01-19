@@ -170,10 +170,5 @@ This project is open source and available under the MIT License.
 - Built with modern Python tools and best practices
 - Designed for healthcare analytics professionals
 
-## Support
+## PowerBI
 
-For issues, questions, or contributions, please open an issue on the repository.
-
----
-
-Built with ❤️ using UV, Streamlit, and modern ML tools
