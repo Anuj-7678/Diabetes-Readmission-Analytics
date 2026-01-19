@@ -1,4 +1,4 @@
-# Diabetes Hospital Analytics
+# Diabetic Readmission Analytics \& Prediction System
 
 A comprehensive analytics pipeline for diabetic hospital admissions with machine learning models and an interactive Streamlit UI.
 
