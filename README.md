@@ -1,6 +1,16 @@
 # Diabetic Readmission Analytics \& Prediction System
 
-A comprehensive analytics pipeline for diabetic hospital admissions with machine learning models and an interactive Streamlit UI.
+Diabetes Readmission Analytics is an end-to-end data science project covering EDA, data cleaning, feature engineering, and predictive modeling, with insights visualized through Power BI dashboards and an interactive Streamlit web application. The project analyzes imbalanced healthcare data, builds ML models (Logistic Regression, Random Forest, XGBoost), applies threshold-based prediction tuning, and delivers both business intelligence insights and real-time readmission predictions.
+
+## PowerBI
+![Dashboard Overview](Images/img.png)
+![Dashboard Overview](Images/img-1.png)
+![Dashboard Overview](Images/img-2.png)
+![Dashboard Overview](Images/img-3.png)
+![Dashboard Overview](Images/img-4.png)
+![Dashboard Overview](Images/img-5.png)
+![Dashboard Overview](Images/img-6.png)
+
 
 ## Features
 
@@ -170,12 +180,5 @@ This project is open source and available under the MIT License.
 - Built with modern Python tools and best practices
 - Designed for healthcare analytics professionals
 
-## PowerBI
-![Dashboard Overview](Images/img.png)
-![Dashboard Overview](Images/img-1.png)
-![Dashboard Overview](Images/img-2.png)
-![Dashboard Overview](Images/img-3.png)
-![Dashboard Overview](Images/img-4.png)
-![Dashboard Overview](Images/img-5.png)
-![Dashboard Overview](Images/img-6.png)
+
 
