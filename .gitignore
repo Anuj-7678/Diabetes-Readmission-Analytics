@@ -14,5 +14,3 @@ wheels/
 models/
 *.pkl
 *.joblib
-
-uv.lock
