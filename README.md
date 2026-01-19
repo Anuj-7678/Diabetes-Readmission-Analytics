@@ -171,7 +171,6 @@ This project is open source and available under the MIT License.
 - Designed for healthcare analytics professionals
 
 ## PowerBI
-## Screenshot
 ![Dashboard Overview](Images/img.png)
 ![Dashboard Overview](Images/img-1.png)
 ![Dashboard Overview](Images/img-2.png)
